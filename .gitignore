@@ -1,0 +1,4 @@
+proxies.txt
+__pycache__/
+found.txt
+*.pyc
